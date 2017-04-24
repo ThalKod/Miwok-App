@@ -27,3 +27,6 @@ What i've learn during this project
 - Creating your own custom classes.
 - Properly handling images or audio (if applicable).
 
+
+[![Alt text](https://github.com/ThalKod/Miwok-App/blob/master/device-2017-04-10-091258.png)](#features)
+[![Alt text](https://github.com/ThalKod/Miwok-App/blob/master/device-2017-04-24-133107.png)](#features)
